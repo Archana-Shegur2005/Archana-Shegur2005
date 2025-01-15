@@ -25,10 +25,8 @@
 </h3>
 
 ### :woman_technologist: About Me :<hr>
-
-#### 👋 Hi, I'm Archana Shegur. I’m a B.Tech CSE student and a passionate web developer specializing in both frontend and backend development, with a strong interest in machine learning.  
-I love transforming ideas into reality through innovative projects and practical solutions.  
-With every project, I aim to push boundaries, improve functionality, and deliver exceptional results.
+---
+#### 👋 Hi, I'm Archana Shegur. I’m a B.Tech CSE student and a passionate web developer specializing in both frontend and backend development, with a strong interest in machine learning. I love transforming ideas into reality through innovative projects and practical solutions. With every project, I aim to push boundaries, improve functionality, and deliver exceptional results.
 <!--
 **Archana-Shegur2005/Archana-Shegur2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
