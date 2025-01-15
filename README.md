@@ -24,10 +24,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h3>
 
-### :woman_technologist: About Me :  <hr style="height: 1px;">
+### :woman_technologist: About Me : 
 #### 👋 Hi, I'm Archana Shegur. I’m a B.Tech CSE student and a passionate web developer specializing in both frontend and backend development, with a strong interest in machine learning. I love transforming ideas into reality through innovative projects and practical solutions. With every project, I aim to push boundaries, improve functionality, and deliver exceptional results.
 
----
+--
 
 ### 👨‍💻 Tech Enthusiast & MERN-Stack Developer
 - 🌐 Skilled in web technologies and frameworks like React, Express, Node, Tailwind CSS and more.
