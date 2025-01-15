@@ -29,7 +29,7 @@
 
 ---
 
-### :👨‍💻 Tech Enthusiast & MERN-Stack Developer
+### 👨‍💻 Tech Enthusiast & MERN-Stack Developer
 - 🌐 Skilled in web technologies and frameworks like React, Express, Node, Tailwind CSS and more.
 - 💻 Proficient in Java and Python programming languages.
 - 🎨 Love crafting responsive and visually appealing UIs.
