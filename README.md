@@ -16,7 +16,7 @@
 </div>
 
 
-<img src="https://komarev.com/ghpvc/?username=Archana-Shegur2005&style=flat-square&color=blue" alt="" align="center"/>
+<img align="center" src="https://komarev.com/ghpvc/?username=Archana-Shegur2005&style=flat-square&color=blue" alt="" />
 
 
 <h1>
@@ -28,7 +28,9 @@
 
 
 ## Hi there 👋
+---
 
+### :woman_technologist: About Me :
 <!--
 **Archana-Shegur2005/Archana-Shegur2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
