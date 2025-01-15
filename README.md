@@ -24,8 +24,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h3>
 
-### :woman_technologist: About Me : ----
+### :woman_technologist: About Me :
+---
+
+
 #### 👋 Hi, I'm Archana Shegur. I’m a B.Tech CSE student and a passionate web developer specializing in both frontend and backend development, with a strong interest in machine learning. I love transforming ideas into reality through innovative projects and practical solutions. With every project, I aim to push boundaries, improve functionality, and deliver exceptional results.
+
+
 
 
 ### 👨‍💻 Tech Enthusiast & MERN-Stack Developer
@@ -36,9 +41,13 @@
 - ⚙️ Enjoy diving into backend logic to bring projects to life.
 
 
+
+
 ### 🚀 Always Learning & Exploring
 ---
 - I believe in the power of constant learning and improvement. Currently, I'm expanding my horizons by exploring artificial intelligence and machine learning to create intelligent applications.
+
+
 
 
 ### 🛠️ Tools & Technologies
@@ -49,11 +58,15 @@
 -  IDEs: Visual Studio Code, Net-Beans.
 
 
+
+
 ### 📫 Let's Connect
 ---
 -  I'm always eager to connect with fellow developers, share ideas, and collaborate on exciting projects. Feel free to reach out to me on:
 -  LinkedIn - https://www.linkedin.com/in/archanashegur29/
 -  Gmail - archanashegur29@gmail.com
+
+
 
 ### 🏆 My GitHub Stats 🏆:
 ---
