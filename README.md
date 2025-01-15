@@ -34,23 +34,25 @@
 - 💻 Proficient in Java and Python programming languages.
 - 🎨 Love crafting responsive and visually appealing UIs.
 - ⚙️ Enjoy diving into backend logic to bring projects to life.
-- 🚀 Always Learning & Exploring
+
+
+### 🚀 Always Learning & Exploring
 - I believe in the power of constant learning and improvement. Currently, I'm expanding my horizons by exploring artificial intelligence and machine learning to create intelligent applications.
 
 
-### :🛠️ Tools & Technologies
+### 🛠️ Tools & Technologies
 -  Frontend: React JS, Tailwind CSS, HTML, CSS.
 -  Backend: Java, Python, MongoDB, Node JS.
 -  Version Control: Git, GitHub.
 -  IDEs: Visual Studio Code, Net-Beans.
 
 
-### :📫 Let's Connect
+### 📫 Let's Connect
 -  I'm always eager to connect with fellow developers, share ideas, and collaborate on exciting projects. Feel free to reach out to me on:
 -  LinkedIn - https://www.linkedin.com/in/archanashegur29/
 -  Gmail - archanashegur29@gmail.com
 
-### :fire: My Stats :
+### fire: 🏆 My GitHub Stats 🏆:
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Archana-Shegur2005&layout=compact)
