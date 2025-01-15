@@ -25,11 +25,12 @@
 </h3>
 
 ### :woman_technologist: About Me : 
+---
 #### 👋 Hi, I'm Archana Shegur. I’m a B.Tech CSE student and a passionate web developer specializing in both frontend and backend development, with a strong interest in machine learning. I love transforming ideas into reality through innovative projects and practical solutions. With every project, I aim to push boundaries, improve functionality, and deliver exceptional results.
 
---
 
 ### 👨‍💻 Tech Enthusiast & MERN-Stack Developer
+---
 - 🌐 Skilled in web technologies and frameworks like React, Express, Node, Tailwind CSS and more.
 - 💻 Proficient in Java and Python programming languages.
 - 🎨 Love crafting responsive and visually appealing UIs.
@@ -37,10 +38,12 @@
 
 
 ### 🚀 Always Learning & Exploring
+---
 - I believe in the power of constant learning and improvement. Currently, I'm expanding my horizons by exploring artificial intelligence and machine learning to create intelligent applications.
 
 
 ### 🛠️ Tools & Technologies
+---
 -  Frontend: React JS, Tailwind CSS, HTML, CSS.
 -  Backend: Java, Python, MongoDB, Node JS.
 -  Version Control: Git, GitHub.
@@ -48,12 +51,13 @@
 
 
 ### 📫 Let's Connect
+---
 -  I'm always eager to connect with fellow developers, share ideas, and collaborate on exciting projects. Feel free to reach out to me on:
 -  LinkedIn - https://www.linkedin.com/in/archanashegur29/
 -  Gmail - archanashegur29@gmail.com
 
 ### 🏆 My GitHub Stats 🏆:
-
+---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Archana-Shegur2005&layout=compact)
 <!--
