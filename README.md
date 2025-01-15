@@ -15,17 +15,14 @@
   </a>
 </div>
 
-
+<div align="center">
 <img align="center" src="https://komarev.com/ghpvc/?username=Archana-Shegur2005&style=flat-square&color=blue" alt="" />
+</div>
 
 
+### :woman_technologist: About Me :!
 
-### :woman_technologist: About Me :
-
-
-# 👋 Hi, I'm Archana Shegur!
-
-I’m a B.Tech CSE student and a passionate web developer specializing in both frontend and backend development, with a strong interest in machine learning.  
+#### 👋 Hi, I'm Archana Shegur. I’m a B.Tech CSE student and a passionate web developer specializing in both frontend and backend development, with a strong interest in machine learning.  
 I love transforming ideas into reality through innovative projects and practical solutions.  
 With every project, I aim to push boundaries, improve functionality, and deliver exceptional results.
 <!--
