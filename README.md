@@ -36,7 +36,7 @@
 ### :fire: My Stats :
 
 
-i/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Archana-Shegur2005)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Archana-Shegur2005/Archana-Shegur2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
